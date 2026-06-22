@@ -182,6 +182,10 @@ go test ./...
 go build -v -o SHIELD-DNS.exe
 ```
 
+For any errors,contributions or questions
+ashtech01@protonmail.com
+
+
 ## License
 
 See LICENSE file in the project directory.

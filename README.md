@@ -1,3 +1,4 @@
+N/B: THIS PROJECT IS STILL UNDER CONSTRUCTION 🥲
 # SHIELD-DNS
 
 A lightweight DNS filtering server built with Go that blocks unwanted domains and forwards legitimate requests to upstream DNS servers.
